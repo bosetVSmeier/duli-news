@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6RcyeD+sdo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\WorkBuddy\\spaces\\2026_11_16_14-00-32\\IndieRadar\\src\\IndieRadar.Api\\IndieRadar.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

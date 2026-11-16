@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IndieRadar.Domain\IndieRadar.Domain.csproj" />
+    <ProjectReference Include="..\IndieRadar.Application\IndieRadar.Application.csproj" />
+    <ProjectReference Include="..\IndieRadar.Infrastructure\IndieRadar.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

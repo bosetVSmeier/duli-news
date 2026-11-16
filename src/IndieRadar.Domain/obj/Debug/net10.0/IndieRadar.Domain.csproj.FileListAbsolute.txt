@@ -1,0 +1,11 @@
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\bin\Debug\net10.0\IndieRadar.Domain.deps.json
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\bin\Debug\net10.0\IndieRadar.Domain.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\bin\Debug\net10.0\IndieRadar.Domain.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\IndieRadar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\IndieRadar.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\IndieRadar.Domain.AssemblyInfo.cs
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\IndieRadar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\IndieRadar.Domain.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\refint\IndieRadar.Domain.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\IndieRadar.Domain.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Domain\obj\Debug\net10.0\ref\IndieRadar.Domain.dll

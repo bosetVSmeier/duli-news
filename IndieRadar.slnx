@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IndieRadar.Api/IndieRadar.Api.csproj" />
+    <Project Path="src/IndieRadar.Application/IndieRadar.Application.csproj" />
+    <Project Path="src/IndieRadar.Domain/IndieRadar.Domain.csproj" />
+    <Project Path="src/IndieRadar.Infrastructure/IndieRadar.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IndieRadar.Tests/IndieRadar.Tests.csproj" />
+  </Folder>
+</Solution>

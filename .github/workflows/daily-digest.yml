@@ -1,0 +1,32 @@
+# ============================================================
+# 每日定时触发日报生成
+# 作用：Render 免费层 15 分钟无流量会休眠，冷启动要几十秒。
+# 这个任务每天固定时间先 GET 唤醒服务，再 POST 触发生成日报。
+# GitHub Actions 免费额度完全够用（每天跑一次，每次几秒）。
+# ============================================================
+name: Daily Digest
+
+on:
+  # 手动触发（调试用）
+  workflow_dispatch:
+  # 定时触发：UTC 时间。北京时间 08:00 = UTC 00:00
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      # 第一步：唤醒 Render 服务（GET 健康检查，可能触发冷启动）
+      - name: Wake up service
+        run: |
+          echo "Waking up ${{ secrets.API_BASE_URL }}"
+          curl -sS --retry 5 --retry-delay 10 --retry-all-errors \
+            "${{ secrets.API_BASE_URL }}/" || true
+
+      # 第二步：触发生成当日日报
+      - name: Trigger daily digest
+        run: |
+          curl -sS --fail --retry 3 --retry-delay 15 --retry-all-errors \
+            -X POST "${{ secrets.API_BASE_URL }}/api/digest/run" \
+            -H "Content-Type: application/json"

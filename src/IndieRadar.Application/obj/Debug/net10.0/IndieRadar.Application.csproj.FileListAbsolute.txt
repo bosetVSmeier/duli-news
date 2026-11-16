@@ -1,0 +1,15 @@
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\bin\Debug\net10.0\IndieRadar.Application.deps.json
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\bin\Debug\net10.0\IndieRadar.Application.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\bin\Debug\net10.0\IndieRadar.Application.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\bin\Debug\net10.0\IndieRadar.Domain.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\bin\Debug\net10.0\IndieRadar.Domain.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.AssemblyInfo.cs
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRad.CEF33DA8.Up2Date
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\refint\IndieRadar.Application.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\IndieRadar.Application.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Application\obj\Debug\net10.0\ref\IndieRadar.Application.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "IndieRadar.Application/1.0.0": {
+        "dependencies": {
+          "IndieRadar.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IndieRadar.Application.dll": {}
+        }
+      },
+      "IndieRadar.Domain/1.0.0": {
+        "runtime": {
+          "IndieRadar.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndieRadar.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IndieRadar.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

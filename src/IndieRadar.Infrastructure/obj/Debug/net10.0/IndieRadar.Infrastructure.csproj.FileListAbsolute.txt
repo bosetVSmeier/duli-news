@@ -1,0 +1,17 @@
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Infrastructure.deps.json
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Infrastructure.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Infrastructure.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Application.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Domain.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Domain.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\bin\Debug\net10.0\IndieRadar.Application.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRad.9C8F3B44.Up2Date
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\refint\IndieRadar.Infrastructure.dll
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\IndieRadar.Infrastructure.pdb
+C:\Users\Administrator\WorkBuddy\spaces\2026_11_16_14-00-32\IndieRadar\src\IndieRadar.Infrastructure\obj\Debug\net10.0\ref\IndieRadar.Infrastructure.dll

@@ -1,0 +1,25 @@
+# 本地开发用：一条命令起 Postgres（docker compose up -d）
+# 生产部署请用 Neon 等云 Postgres，不用这个 compose。
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: indieradar-pg
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: indieradar
+      POSTGRES_USER: indieradar
+      POSTGRES_PASSWORD: indieradar_dev_pwd
+    ports:
+      # 宿主机 5432 映射容器 5432；若本机已占 5432 可改成 5433
+      - "5432:5432"
+    volumes:
+      # 数据持久化到容器卷，重启/重建容器数据不丢
+      - indieradar_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U indieradar -d indieradar"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  indieradar_pgdata:
